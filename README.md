@@ -1,4 +1,3 @@
-
 >>Estudo em resumo com notebookLM<<
 
 #Contexto e Objetivos
@@ -175,4 +174,3 @@ Treinamento de Conscientização: Fortinet enfatizaa importância do treinamento
 
 "A segurança é um processo e não um produto" 
 ~Kevin Mitnick
-
