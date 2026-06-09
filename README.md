@@ -156,7 +156,7 @@ Infraestrutura Crítica:Setores vitais como saúde, energia e finanças dependem
 
 #Por último e mais importante:O fator humano,se não consideramos isso como ponto principal tudo o que aprendemos até agora não servirá de nada.O lado humano dentro de um sistema é a parte mais frágil e crítica,se não a conscientização é treinamentos contínuos,nenhuma tecnologia vai manter um ambiente digital seguro.Vamos ver algumas exemplos de ataques físicos:
 
-*Phising
+*Phishing
 *Baiting
 *Shoulder surfing
 *Engenharia social
@@ -167,7 +167,7 @@ Phisging:E-mail malicioso que coleta informação ao clicar.
 
 Baiting:Manipulação da vitima consiste em deixar pen-drive em locais públicos esperando alguém ter curiosidade de pegar e colocar no computador,assim infectando o dispositivo. 
 
-Shounder Surfing:"Olhar pelos ombros" consiste em olhar a vítima digitando ou fazendo algo que ele possa coletar informações com isso. 
+Shoulder Surfing:"Olhar pelos ombros" consiste em olhar a vítima digitando ou fazendo algo que ele possa coletar informações com isso. 
 
 
 Treinamento de Conscientização: Fortinet enfatizaa importância do treinamento de conscientização sobre segurança para funcionários,oferecendo inclusive simulações de Phising segundo pesquisas citadas,existe uma conexão direta entre o aumento da conscientização dos colaboradores e a diminuição do risco organizacional. 
