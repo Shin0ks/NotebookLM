@@ -173,6 +173,6 @@ Shounder Surfing:"Olhar pelos ombros" consiste em olhar a vítima digitando ou f
 Treinamento de Conscientização: Fortinet enfatizaa importância do treinamento de conscientização sobre segurança para funcionários,oferecendo inclusive simulações de Phising segundo pesquisas citadas,existe uma conexão direta entre o aumento da conscientização dos colaboradores e a diminuição do risco organizacional. 
 
 
-"A segurança não é um processo e não um produto" 
+"A segurança é um processo e não um produto" 
 ~Kevin Mitnick
 
