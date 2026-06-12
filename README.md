@@ -32,7 +32,7 @@ O processo de extração de conhecimento passou por um refinamento de prompts pa
 
 ### 1. Conceitos Fundamentais e a Tríade CID
 
-* **A cibersegurança é um campo essencial no mundo digitalizado de hoje, focado em proteger e defender organizações à medida que as conexões digitais aumentam globalmente. *Ela atua na proteção de sistemas, redes e dados contra ataques digitais, garantindo que as informações fiquem seguras e acessíveis apenas a pessoas autorizadas. Seus componentes essenciais são:**
+* *A cibersegurança é um campo essencial no mundo digitalizado de hoje, focado em proteger e defender organizações à medida que as conexões digitais aumentam globalmente. *Ela atua na proteção de sistemas, redes e dados contra ataques digitais, garantindo que as informações fiquem seguras e acessíveis apenas a pessoas autorizadas. Seus componentes essenciais são:**
 
  * **Confidencialidade (C):** Garante que a informação seja acessível estritamente por usuários ou sistemas autorizados. É implementada por meio de criptografia de dados e sistemas de Gestão de Identidade e Acesso (IAM).
    * *Exemplo:* Uso de firewalls e segmentação de rede para impedir o acesso não autorizado.
