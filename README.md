@@ -1,16 +1,15 @@
 
-# Estudo Baseado em IA: Fundamentos de Cibersegurança com NotebookLM
+# Fundamentos de Cibersegurança com NotebookLM
 
 ## Contexto e Objetivos
 
-Este repositório foi desenvolvido como parte de um desafio prático na plataforma **Digital Innovation One (DIO)**, focado no treinamento e na aplicação de Inteligência Artificial.
-O objetivo principal deste projeto é aplicar conceitos de **aprendizagem ativa** e **engenharia de prompts** utilizando o Google NotebookLM. O foco do estudo direcionou-se ao aprofundamento de conhecimentos em **Cibersegurança**, explorando desde os pilares fundamentais até as perspectivas de carreira e o fator humano na segurança da informação.
+Este repositório foi desenvolvido como parte de um desafio prático na plataforma **Digital Innovation One (DIO)**, focado no treinamento e na aplicação de Inteligência Artifícial.O objetivo principal deste projeto é aplicar conceitos de **aprendizagem ativa** e **engenharia de prompts**. 
 
-## Fontes de Pesquisa Utilizadas
+## Fontes de Pesquisa 
 
- 1. Cisco Networking Academy
- 2. Fortinet Brasil
- 3. Coursera
+ 1.  https://cisco.netacad.net
+ 2.  https://www.fortinet.com/br
+ 3.  https://www.coursera.org/
 
 ## Engenharia de Prompts e Resolução de Problemas (Troubleshooting)
 O processo de extração de conhecimento passou por um refinamento de prompts para garantir a qualidade e a profundidade das respostas obtidas.
@@ -29,7 +28,7 @@ O processo de extração de conhecimento passou por um refinamento de prompts pa
 
  * **Resultado:** Resposta precisa, aprofundada e contextualizada, com indicação clara das fontes de dados e exemplos práticos de aplicação.
 
-## Conteúdo Consolidado do Estudo
+## Resumo
 
 ### 1. Conceitos Fundamentais e a Tríade CID
 
@@ -45,7 +44,8 @@ O processo de extração de conhecimento passou por um refinamento de prompts pa
    * *Exemplo:* Implementação de balanceadores de carga para evitar sobrecarga nos servidores.
 > **Importância da Tríade:** O equilíbrio entre esses três pilares define a maturidade de segurança de uma organização. Falhas na confidencialidade geram vazamentos; falhas na integridade corrompem tomadas de decisão; falhas na
 > disponibilidade podem paralisar serviços essenciais (saúde, finanças), gerando prejuízos severos.
-> 
+
+
 ### 2. O Mercado de Trabalho e a Evolução Profissional
 
 O setor de segurança cibernética apresenta alta demanda global e baixa disponibilidade de profissionais qualificados. Estatísticas indicam que **87% das organizações sofreram ao menos uma violação de segurança no último ano**. Em contrapartida, o investimento em qualificação gera retorno rápido: cerca de 35% dos profissionais relatam aumento salarial imediato após obterem certificações.
