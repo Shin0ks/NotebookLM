@@ -97,5 +97,6 @@ A tecnologia, de forma isolada, não é suficiente para garantir a segurança de
 ### Mitigação: Programas de Conscientização
 Organizações de referência, como a Fortinet, enfatizam que treinamentos contínuos de conscientização e simulações periódicas de phishing reduzem drasticamente os riscos corporativos. A educação digital dos colaboradores é indispensável para transformar o comportamento humano em uma linha de defesa ativa.
 > "A segurança é um processo, não um produto."
+> 
 > — *Kevin Mitnick*
 
